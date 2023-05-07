@@ -1,1 +1,2 @@
-# pai_1_intro
+# Dzień dobry
+Przed uruchmieniem nalezy zainstalować pakiet requests
